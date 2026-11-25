@@ -10,4 +10,4 @@ FairMile records your work drives automatically using just your iPhone, and turn
 - [Terms of Use](terms)
 - [Support](support)
 
-Questions? Email **neosdevshelp@gmail.com**.
+Developer: **Hariom Paswan** · Questions? Email **neosdevshelp@gmail.com**.
