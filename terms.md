@@ -58,11 +58,31 @@ Your trips are stored only on your iPhone. You are responsible for keeping backu
 
 Apple Inc. and Apple's subsidiaries are third-party beneficiaries of these Terms, and upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third-party beneficiary thereof.
 
-### 10. Changes
+### 10. Limitation of liability
 
-We may update these Terms. The new version will be posted on this page with a new date.
+To the maximum extent permitted by applicable law, Hariom Paswan is not liable for any indirect, incidental, special or consequential damages, or for lost data, lost profits, tax penalties or missed deductions, arising from your use of HonestMile. Our total liability for any claim relating to HonestMile is limited to the amount you paid for HonestMile Pro in the 12 months before the claim. Nothing in these Terms limits liability that cannot be limited by law, or your rights as a consumer under the law of the country where you live.
 
-### 11. Contact
+### 11. Trademarks and no affiliation
+
+HonestMile is an independent app. It is not affiliated with, endorsed by or sponsored by the IRS, HMRC, the Canada Revenue Agency (CRA), MileIQ or its owner, or Apple. IRS, HMRC and CRA are named only to identify the published mileage rates the app uses. MileIQ is named only to describe the file format HonestMile can import. Apple, Apple Maps, iPhone and App Store are trademarks of Apple Inc. All other trademarks belong to their owners.
+
+### 12. Ending these Terms
+
+You can stop using HonestMile at any time by deleting it; cancel HonestMile Pro separately in your Apple ID settings. Your license to use the app ends automatically if you break these Terms. We may stop offering or updating the app; if we do, trips already on your iPhone stay there and can still be exported.
+
+### 13. Governing law
+
+These Terms are governed by the laws of India. The courts at Vadodara, Gujarat, India have jurisdiction over any dispute, except where the law of the country where you live gives you the right to bring a claim in your local courts or under your local consumer laws.
+
+### 14. Changes
+
+We may update these Terms. The new version will be posted on this page with a new date. If you keep using HonestMile after a change, the new Terms apply.
+
+### 15. General
+
+If any part of these Terms cannot be enforced, the rest stays in effect. These Terms, the Privacy Policy and Apple's Standard EULA are the whole agreement between you and us about HonestMile.
+
+### 16. Contact
 
 Developer: **Hariom Paswan**  
 Support email: **neosdevshelp@gmail.com**  
