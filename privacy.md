@@ -29,6 +29,7 @@ All of this stays on your iPhone using iOS file protection. We cannot see, acces
 HonestMile uses Apple system frameworks and no third-party SDKs:
 
 - **Apple Maps (MapKit / CoreLocation geocoding)** draws trip maps, suggests places while you type, converts coordinates into place names and computes driving distances. To provide those features, Apple receives the coordinates or search queries involved directly from your device. Apple's privacy policy applies: [apple.com/legal/privacy](https://www.apple.com/legal/privacy/).
+- **iCloud (CloudKit private database)** keeps an automatic backup of your trips and map routes when you are signed in to iCloud. It is stored in your own private iCloud database under your Apple account. We cannot read, access or delete it, and it is not sent to any HonestMile server. It lets your trips come back if you delete the app or move to a new iPhone.
 - **App Store (StoreKit 2)** handles HonestMile Pro subscriptions. Payments and entitlement checks are processed by Apple on your device; we never see your payment details or Apple ID.
 
 ### 4. Notifications
@@ -39,7 +40,8 @@ If you turn on "Notify me after each drive", HonestMile schedules local notifica
 
 Only what you explicitly choose to share or back up:
 
-- PDF or CSV reports you export, and JSON backup files you save — they go only where you send them.
+- The automatic backup in your own private iCloud (see section 3), only while you are signed in to iCloud.
+- PDF, Excel or CSV reports you export, and JSON backup files you save — they go only where you send them.
 - A MileIQ CSV file you import is parsed locally on your iPhone and is never uploaded.
 - If you enable iOS iCloud Backup on your device, iOS may include HonestMile's local data in your encrypted iCloud backup under your own Apple account.
 
@@ -53,7 +55,8 @@ Only what you explicitly choose to share or back up:
 
 - Your data stays on your iPhone until you delete it.
 - Delete a single trip by opening it and tapping **Delete trip**.
-- Delete everything with **Settings › Data › Delete all data**, or by uninstalling the app.
+- Delete everything with **Settings › Data › Delete all data**. This also empties your iCloud backup.
+- Uninstalling the app removes your trips from the iPhone, but the iCloud backup stays in your iCloud so you can get your trips back. To remove it, use **Delete all data** before uninstalling, or iPhone **Settings › your name › iCloud › Manage Account Storage › HonestMile**.
 - Because we never receive or store your data on any server, there is nothing stored by us to delete. You can still email us with any privacy question.
 
 ### 8. Your rights
